@@ -1,0 +1,16 @@
+{
+    "name": "countdown-clock-animation",
+    "version": "0.1.0",
+    "description": "Create a countdown clock using createjs libraries",
+    "main": "index.html",
+    "author": "ngocdb (Mirage Design Team)",
+    "license": "MIT",
+    "devDependencies": {
+        "grunt": "^0.4.5",
+        "browserify": "^4.1.11",
+        "grunt-browserify": "^2.1.0",
+        "grunt-contrib-watch": "^0.6.1",
+        "grunt-contrib-copy": "^0.5.0",
+        "grunt-contrib-connect": "^0.8.0"
+    }
+}

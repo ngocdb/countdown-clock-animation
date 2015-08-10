@@ -1,0 +1,11 @@
+{
+    "name": "countdown-clock-animation",
+    "version": "0.1.0",
+    "description": "Create a countdown clock using createjs libraries",
+    "main": "index.html",
+    "author": "ngocdb (Mirage Design Team)",
+    "license": "MIT",
+    "dependencies": {
+        "easeljs": "*"
+    }
+}

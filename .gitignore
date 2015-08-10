@@ -1,0 +1,6 @@
+app/lib/utils/dom_ready.js
+app/lib/utils/index.js
+app/lib/Hero.js
+build
+bower_components
+node_modules
