@@ -18,3 +18,6 @@
 
 <p>Have fun & happy coding!</p>
 
+<p>Reference</p>
+<p>1. In the apps, I used a standalone document ready script from https://github.com/jfriend00/docReady</p>
+
